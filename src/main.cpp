@@ -21,6 +21,18 @@ std::string getRandomColor() {
     return colors[rand() % sizeof(colors)/sizeof(colors[0])];
 }
 
+void printAsciiArt(const std::string& asciiArt) {
+    for(char c : asciiArt) {
+        if(c == ' ') {
+            std::cout << getRandomColor() << c << RESET;
+        } else if(c == '\t') {
+            std::cout << getRandomColor() << "    " << RESET;
+        } else {
+            std::cout << getRandomColor() << c << RESET;
+        }
+    }
+}
+
 int main(){
   srand(time(nullptr));
 
@@ -60,16 +72,7 @@ int main(){
                                               |================================|
                                                         
   )";
-
-  for(char c : graphics) {
-        if(c == '\n') continue; // Пропускаем перевод строки
-        
-        // Выводим каждый символ с случайно выбранным цветом
-        std::cout << getRandomColor() << c << RESET;
-    }
-
-
-  //std::cout << graphics << std::endl;
+  printAsciiArt(graphics);
   std::cout << std::endl;
   return 0;
 }
