@@ -4,7 +4,7 @@ Template program for creating beautiful CLI programs on C++
 [![GitHub Stars](https://img.shields.io/github/stars/rediskazavr/ax3-tools.svg?style=social&label=Star)](https://github.com/rediskazavr/ax3-tools)
 [![GitHub Forks](https://img.shields.io/github/forks/rediskazavr/ax3-tools.svg?style=social&label=Fork)](https://github.com/rediskazavr/ax3-tools)
 [![GitHub Issues](https://img.shields.io/github/issues/rediskazavr/ax3-tools.svg)](https://github.com/rediskazavr/ax3-tools/issues)
-[![License](https://img.shields.io/github/license/rediskazavr/ax3-tools.svg)](https://github.com/rediskazavr/ax3-tools/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/rediskazavr/ax3-tools.svg)](https://github.com/rediskazavr/ax3-tools/blob/main/LICENSE)
 
 ## Content
 * [Technologies](#Technologies)
