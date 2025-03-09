@@ -1,6 +1,7 @@
 TARGET = ./build/app.run
 
 SRC = \
+			./src/main.cpp
 
 HDRS = \
 
