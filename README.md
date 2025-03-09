@@ -32,8 +32,8 @@ Manual for working
 * Project Lead: [rediskazavr](https://github.com/rediskazavr)
 
 ## 📷 Preview
-<img src="https://github.com/rediskazavr/TUI-OS/blob/main/docs/img/preview_for_readme.jpg" width=512>
-<img src="https://github.com/rediskazavr/TUI-OS/blob/main/docs/img/preview_for_readme2.jpg" width=512>
+<img src="https://github.com/rediskazavr/ax3-tools/blob/main/docs/img/preview_for_readme.jpg" width=512>
+<img src="https://github.com/rediskazavr/ax3-tools/blob/main/docs/img/preview_for_readme2.jpg" width=512>
 
 ## 📌 Sources
 > A tool to simplify the creation of beautiful C++ console programs with very simple documentation
