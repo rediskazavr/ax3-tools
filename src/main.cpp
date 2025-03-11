@@ -6,6 +6,7 @@
 
 #include "./func/design.hpp"
 #include "./func/colors.hpp"
+#include "./cmd/line.hpp"
 
 using namespace std;
 bool UseColors = true;
@@ -15,6 +16,7 @@ int main() {
 
     readConfigFile();
     printDesign();
+    line();
 
     return 0;
 }
