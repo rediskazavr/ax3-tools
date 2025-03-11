@@ -1,4 +1,4 @@
-TARGET = ./build/app.run
+TARGET = ./build/ax3
 
 SRC = \
 			./src/main.cpp \
