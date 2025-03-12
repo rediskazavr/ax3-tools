@@ -20,13 +20,19 @@ Template program for creating beautiful CLI programs on C++
 ## 📎 Quick Start
 > Before installing/building the project, make sure you have: g++, make installed
 ```
+git clone https://github.com/rediskazavr/ax3-tools
+cd ax3-tools/
+chmod u+x build.sh
+./build.sh or ./build.bat (Linux or Windows)
+cd build/
+./app.exe
 
 ```
 
 ## 📃 Docs
-Code documentation:
+Code documentation: [click]()
 
-Manual for working
+Manual for working: [click]()
 
 ## 📜 Team project
 * Project Lead: [rediskazavr](https://github.com/rediskazavr)
@@ -35,4 +41,4 @@ Manual for working
 <img src="https://github.com/rediskazavr/ax3-tools/blob/main/docs/img/preview_for_readme.jpg" width=512>
 
 ## 📌 Sources
-> A tool to simplify the creation of beautiful C++ console programs with very simple documentation
+> A tool to simplify the creation of beautiful C++ console programs with very simple documentation, also used in private projects
