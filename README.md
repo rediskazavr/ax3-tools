@@ -32,7 +32,7 @@ cd build/
 ## 📃 Docs
 Code documentation: [click]()
 
-Manual for working: [click]()
+Manual for working: [click](https://github.com/rediskazavr/ax3-tools/blob/main/docs/manual_for_working.md)
 
 ## 📜 Team project
 * Project Lead: [rediskazavr](https://github.com/rediskazavr)
