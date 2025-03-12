@@ -1,5 +1,6 @@
 #include <iostream>
 #include <limits>
+#include <stdio.h>
 
 #include "line.hpp"
 using namespace std;
@@ -17,7 +18,7 @@ void line() {
 
         switch (choice) {
             case 1:
-                cout << "Example" << endl;
+                system("python3 ./scripts/script.py");
                 break;
             case 2:
                 cout << "Example2" << endl;
@@ -44,7 +45,7 @@ void line() {
                cout << "Example9" << endl;
                break;
             case 10:
-               cout << "Example10" << endl;
+               return;
                break;
             default:
                 cout << "$Error: command not found" << endl;
