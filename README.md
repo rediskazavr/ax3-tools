@@ -40,5 +40,7 @@ Manual for working: [click](https://github.com/rediskazavr/ax3-tools/blob/main/d
 ## 📷 Preview
 <img src="https://github.com/rediskazavr/ax3-tools/blob/main/docs/img/preview_for_readme.jpg" width=512>
 
+<img src="https://github.com/rediskazavr/ax3-tools/blob/main/docs/img/preview_for_readme1.png" width=512>
+
 ## 📌 Sources
 > A tool to simplify the creation of beautiful C++ console programs with very simple documentation, also used in private projects
