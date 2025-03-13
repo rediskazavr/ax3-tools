@@ -89,7 +89,7 @@ void readConfigFile() {
                     } else if(value == "white") {
                         colorScheme = WHITE_SCHEME;
                     } else {
-                        colorScheme = RANDOM_COLOR; // По умолчанию случайный цвет
+                        colorScheme = RANDOM_COLOR; 
                     }
                 }
             }
