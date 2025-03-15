@@ -31,6 +31,7 @@ case 1:
 ## Configuration etc
 The ./build/config/config.conf file contains functions that can be disabled or enabled without recompiling the program. Let's look at each line of this configuration:
 * ```$rainbow_colors =true/false``` - Enables or disables color rendering of text on the screen 
+* ```$color_scheme =red,blue,yellow,green,white,magenta``` - Select one color scheme for the program. (works when enabled $rainbow_colors =true)
 
 
 > Documentation author: rediskazavr, current as of 03/13/2025
