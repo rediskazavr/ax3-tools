@@ -84,10 +84,15 @@ The ColorScheme enumeration represents the various coloring schemes available fo
 Global flags
 
 bool useColors = true;
+
 ColorScheme colorScheme = RANDOM_COLOR;
+
 useColors: A flag that determines whether to use colors when displaying text.
-colorScheme: The currently selected coloring scheme is initially set to a random color selection.
+
+colorScheme: The currently selected coloring scheme is initially
+ set to a random color selection.
 Functions
+
 getRandomColor function
 
 ```std::string getRandomColor() {

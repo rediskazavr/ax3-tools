@@ -30,7 +30,7 @@ cd build/
 ```
 
 ## 📃 Docs
-Code documentation: [click]()
+Code documentation: [click](https://github.com/rediskazavr/ax3-tools/blob/main/docs/doc_code.md)
 
 Manual for working: [click](https://github.com/rediskazavr/ax3-tools/blob/main/docs/manual_for_working.md)
 
