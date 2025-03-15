@@ -9,14 +9,13 @@
 #include "./cmd/line.hpp"
 
 using namespace std;
-bool UseColors = true;
 
 int main() {
     srand(time(nullptr));
 
-    readConfigFile();
-    printDesign();
-    line();
+    readConfigFile(); //Work with colors (./src/func/colors.cpp)
+    printDesign(); //print main design in terminal (./src/func/design.cpp)
+    line(); //line for enter command (./src/cmd/line.cpp)
 
     return 0;
 }
