@@ -9,7 +9,7 @@ In this documentation we will look at using the tool in your simple C++ console 
 ## Redesigning your program:
 * Go to ./src/func/design.cpp, this file contains the main design of your program that is displayed in the terminal. In the line ``` static const std::string graphics = R"()" ``` you can create. Change the ASCII art to your own, change the frame with the function selection, etc.
 
-* Go to ./src/func/colors.cpp you can change the path to the configuration file, and the color scheme that displays your program [see the documentation for the project code]()
+* Go to ./src/func/colors.cpp you can change the path to the configuration file, and the color scheme that displays your program [see the documentation for the project code](https://github.com/rediskazavr/ax3-tools/blob/main/docs/doc_code.md)
 
 ## Description of the available functions that you can use
 * Function ``` return; ``` terminates the program. 
