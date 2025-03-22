@@ -25,7 +25,7 @@ cd ax3-tools/
 chmod u+x build.sh
 ./build.sh or ./build.bat (Linux or Windows)
 cd build/
-./app.exe
+./ax3
 
 ```
 
